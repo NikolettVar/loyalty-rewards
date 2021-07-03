@@ -7,7 +7,7 @@ determine the miles earned by a customer based on the flight ticket price. The
 application prompts the user to enter the customer’s loyalty card status, the number 
 of flights the customer flew with the company during the current year, and the flight 
 ticket price. Next, the application computes the miles earned by the customer 
-according to the rules from the following table:
+according to pre-set rules.
 Loyalty card status | Number of flights the user flew in the current year | Miles Earned
 bronze                  Between 1 and 4 inclusive                           3 * ticket price
                         5 or more                                           4 * ticket price
