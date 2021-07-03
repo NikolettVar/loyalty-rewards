@@ -15,4 +15,4 @@ silver                  Between 1 and 4 inclusive                           5 * 
                         5 or more                                           6 * ticket price;
 gold                    Between 1 and 4 inclusive                           7 * ticket price;
                         5 or more                                           8 * ticket price.
-This application makes use of instantiable classes and nested if statements.
+This application makes use of instantiable classes and nested if statements and JOptionPane to accept user input.
